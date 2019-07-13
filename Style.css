@@ -1,0 +1,27 @@
+body {
+font-family: verdana;
+color: '#777';
+  background:'#777';
+ width: '960px';
+font-size: '180px';
+}
+header,
+nav, 
+Section, 
+Aside, 
+footer {
+background: '#ebebeb';
+  }
+Section {
+      width: 495px;
+}
+Article {
+   color: '#777';
+   background:'#777';
+}
+h1, p {
+     color: '#777';
+     background: '#ebebeb';
+  font-family: verdana;
+  font-size: 20px;
+}
